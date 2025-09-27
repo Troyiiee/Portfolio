@@ -31,7 +31,7 @@ div{
     text-align: justify;
 }
 body{
-    background: linear-gradient(135deg, gold, red);
+    background: linear-gradient(135deg, rgb(59, 185, 216), rgba(38, 106, 151, 0.829));
 }
 .name{
     float: left; 
@@ -44,4 +44,5 @@ body{
 }
 .container ul{
     background: linear-gradient(135deg, rgb(224, 210, 130), rgb(221, 116, 116));
+
 }
